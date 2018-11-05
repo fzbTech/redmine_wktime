@@ -1,4 +1,5 @@
-= ERPmine
+= Time Sheet
+Fixed the configuration in timesheet
 
 This Plugin has the following modules:
 1) Time & Expense
@@ -13,8 +14,8 @@ This Plugin has the following modules:
 3) PayRoll
     Setup Payroll data
     Generate Salary
-    Report – Salary Register
-    Report – Salary Slip
+    Report â€“ Salary Register
+    Report â€“ Salary Slip
 4) Billing
     Setup Billable Projects
     Generate Invoices
@@ -23,12 +24,12 @@ This Plugin has the following modules:
 5) Accounting
 	Create Ledgers
 	Post Financial Transaction 
-    Report – Balance Sheet
-    Report – Profit & Loss A/c Report
+    Report â€“ Balance Sheet
+    Report â€“ Profit & Loss A/c Report
 6) CRM
 	Create Lead,Opportunity, Activity and Contacts
-	Report – Lead Conversion
-    Report – Sales Activity
+	Report â€“ Lead Conversion
+    Report â€“ Sales Activity
 7) Purchasing
 	Create RFQ, Quote, Purchase Order, 
 	Create Supplier Invoice and Supplier Payments
