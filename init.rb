@@ -498,7 +498,7 @@ Redmine::Plugin.register :redmine_wktime do
   author 'Peter Du'
   description 'This plugin is for entering Time & Attendance (based on ERPTime by Adhi Software Pvt Ltd)'
   version '3.3.3'
-  url 'http://www.redmine.org/plugins/wk-time'
+  url 'https://github.com/fzbTech/redmine_wktime'
   author_url ''
   
   settings(:partial => 'settings',
