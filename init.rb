@@ -494,12 +494,12 @@ Rails.configuration.to_prepare do
 end
 
 Redmine::Plugin.register :redmine_wktime do
-  name 'ERPmine'
-  author 'Adhi Software Pvt Ltd'
-  description 'ERPmine is an ERP for Service Industries. It has the following modules: Time & Expense, Attendance, Payroll, CRM, Billing, Accounting, Purchasing, Inventory, Asset and Schedule Shifts'
+  name 'Timesheet'
+  author 'Peter Du'
+  description 'This plugin is for entering Time & Attendance (based on ERPTime by Adhi Software Pvt Ltd)'
   version '3.3.3'
   url 'http://www.redmine.org/plugins/wk-time'
-  author_url 'http://www.adhisoftware.co.in/'
+  author_url ''
   
   settings(:partial => 'settings',
            :default => {
