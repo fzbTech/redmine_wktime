@@ -369,7 +369,7 @@ pl:
   label_export_invoice: Drukuj
   label_authorized_signatory: Upoważniony sygnatariusz
   label_place: Miejsce
-  label_erpmine: ERPmine
+  label_erpmine: TimeSheet
   label_trillion: bilion
   label_billion: miliard
   label_million: milion
